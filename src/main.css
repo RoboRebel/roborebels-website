@@ -1,0 +1,21 @@
+p {
+  color:red;
+}
+body {
+  margin:0px;
+}
+.title-bar {
+  background-color:#F44336;
+  height:48px;
+  width:100%;
+  margin:0px;
+  box-shadow:0 0 4px;
+}
+.title {
+  color:white;
+  float:left;
+  margin:4px;
+  font-family:sans;
+  font-style:bold;
+  font-size:2.5em;
+}
